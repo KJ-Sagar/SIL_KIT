@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/SilKitDemoEthernetReader.dir/EthernetReaderDemo.cpp.o -o ../../../Release/SilKitDemoEthernetReader  -Wl,-rpath,/home/kj/CES_2025_artifacts/sil-kit/build/Release: ../../../Release/libSilKit.so

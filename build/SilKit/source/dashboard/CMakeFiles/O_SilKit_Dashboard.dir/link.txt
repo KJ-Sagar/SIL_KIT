@@ -1,0 +1,2 @@
+/usr/bin/ar qc libO_SilKit_Dashboard.a CMakeFiles/O_SilKit_Dashboard.dir/client/DashboardSystemServiceClient.cpp.o CMakeFiles/O_SilKit_Dashboard.dir/client/DashboardRetryPolicy.cpp.o CMakeFiles/O_SilKit_Dashboard.dir/service/DashboardRestClient.cpp.o CMakeFiles/O_SilKit_Dashboard.dir/service/SilKitToOatppMapper.cpp.o CMakeFiles/O_SilKit_Dashboard.dir/OatppHeaders.cpp.o CMakeFiles/O_SilKit_Dashboard.dir/DashboardInstance.cpp.o CMakeFiles/O_SilKit_Dashboard.dir/CreateDashboardInstance.cpp.o
+/usr/bin/ranlib libO_SilKit_Dashboard.a

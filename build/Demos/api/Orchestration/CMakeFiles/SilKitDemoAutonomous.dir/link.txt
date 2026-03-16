@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/SilKitDemoAutonomous.dir/Autonomous.cpp.o -o ../../../Release/SilKitDemoAutonomous  -Wl,-rpath,/home/kj/CES_2025_artifacts/sil-kit/build/Release ../../../Release/libSilKit.so

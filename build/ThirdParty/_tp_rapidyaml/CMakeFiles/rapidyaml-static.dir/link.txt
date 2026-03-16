@@ -1,0 +1,2 @@
+/usr/bin/ar qc librapidyaml-static.a "CMakeFiles/rapidyaml-static.dir/rapidyaml-0.9.0.cpp.o"
+/usr/bin/ranlib librapidyaml-static.a

@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/SilKitDemoCoordinated.dir/Coordinated.cpp.o -o ../../../Release/SilKitDemoCoordinated  -Wl,-rpath,/home/kj/CES_2025_artifacts/sil-kit/build/Release ../../../Release/libSilKit.so
