@@ -1,0 +1,19 @@
+SchemaVersion: 1
+Description: Configuration for running the Zonal_A SIL Kit Participant
+
+Logging:
+  Sinks:
+  - Level: Info
+    Type: Stdout
+
+Middleware:
+  # Modify the URI as per vnic availability
+  # RegistryUri: silkit://10.56.2.192:8501
+  RegistryUri: silkit://10.56.2.13:8500
+  # ConnectAttempts: 3
+  # TcpNoDelay: false
+  # TcpQuickAck: false
+  # TcpSendBufferSize: 1024
+
+
+  

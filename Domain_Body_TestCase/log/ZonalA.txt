@@ -1,0 +1,31 @@
+Creating participant 'ZONAL1' with registry silkit://localhost:8500
+[2025-01-04 17:39:13.647] [ZONAL1] [info] Creating participant, ParticipantName: ZONAL1, RegistryUri: silkit://10.56.2.13:8500, SilKitVersion: 4.0.55
+[2025-01-04 17:39:13.647] [ZONAL1] [info] The provided registry URI '' differs from the configured registry URI 'silkit://10.56.2.13:8500'. The latter will be used.
+[2025-01-04 17:39:13.649] [ZONAL1] [info] Connected to registry at 'tcp://10.56.2.13:8500' via 'tcp://10.56.2.13:41552' (local:///tmp/SilKitRegie717512887d60b16.silkit, tcp://10.56.2.13:8500)
+Press enter to stop the process...
+Communication ready handler called for ZONAL1
+
+=================== Received CAN Payload: ===================
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 
+[2025-01-04 17:39:44.669] [ZONAL1] [info] 
+
+<< ETH Frame from ZONAL_A sent!
+66 55 44 33 22 22 66 55 44 33 
+22 33 08 00 45 00 00 64 00 00 
+40 00 40 11 b7 69 c0 a8 01 08 
+c0 a8 01 02 13 59 13 58 00 50 
+00 00 00 00 14 01 00 00 00 40 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 
+

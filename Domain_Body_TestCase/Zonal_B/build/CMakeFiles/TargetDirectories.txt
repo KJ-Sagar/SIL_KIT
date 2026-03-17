@@ -1,0 +1,3 @@
+/home/ubuntu/Domain_Body_TestCase/Zonal_B/build/CMakeFiles/Zonal2_app.dir
+/home/ubuntu/Domain_Body_TestCase/Zonal_B/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/Domain_Body_TestCase/Zonal_B/build/CMakeFiles/rebuild_cache.dir

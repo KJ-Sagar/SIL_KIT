@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/ZonalA.dir/ZonalA.cpp.o -o ZonalA  -Wl,-rpath,/home/ubuntu/sil-kit/build/Release /home/ubuntu/sil-kit/build/Release/libSilKit.so 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/RestBus.dir/RestBus.cpp.o -o RestBus  -Wl,-rpath,/home/ubuntu/sil-kit/build/Release /home/ubuntu/sil-kit/build/Release/libSilKit.so 

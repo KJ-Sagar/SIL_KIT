@@ -1,0 +1,98 @@
+Creating participant PlantModel_Restbus
+[2025-01-04 17:39:44.428] [PlantModel_Restbus] [info] Creating participant, ParticipantName: PlantModel_Restbus, RegistryUri: silkit://10.56.2.13:8500, SilKitVersion: 4.0.55
+[2025-01-04 17:39:44.428] [PlantModel_Restbus] [info] The provided registry URI '' differs from the configured registry URI 'silkit://10.56.2.13:8500'. The latter will be used.
+[2025-01-04 17:39:44.430] [PlantModel_Restbus] [info] Connected to registry at 'tcp://10.56.2.13:8500' via 'tcp://10.56.2.13:33362' (local:///tmp/SilKitRegi97d7281c35af7548.silkit, tcp://10.56.2.13:8500)
+Communication ready for PlantModel_Restbus
+[2025-01-04 17:39:44.669] [PlantModel_Restbus] [info] 
+>> Transmitted for CAN frame with canId= 0x401
+
+>>Test Procedure Set!
+Test Case ID= 1 selected!
+
+===================== TRUNK FEATURE TEST CASE ========================= 
+
+===== Test Case ID 1 PASSED
+
+---------------------- TRUNK Success ----------------------
+====> Trunk Data Successfully Received.
+Trunk Status: OPEN
+
+===================== TRUNK FEATURE TEST CASE ========================= 
+
+===== Test Case ID 1 PASSED
+
+---------------------- TRUNK Success ----------------------
+====> Trunk Data Successfully received.
+Trunk Status: CLOSE
+
+===================== TRUNK FEATURE TEST CASE ========================= 
+
+===== Test Case ID 1 PASSED
+
+---------------------- TRUNK Success ----------------------
+====> Trunk Data Successfully Received.
+Trunk Status: OPEN
+
+===================== TRUNK FEATURE TEST CASE ========================= 
+
+===== Test Case ID 1 PASSED
+
+---------------------- TRUNK Success ----------------------
+====> Trunk Data Successfully received.
+Trunk Status: CLOSE
+
+===================== TRUNK FEATURE TEST CASE ========================= 
+
+===== Test Case ID 1 PASSED
+
+---------------------- TRUNK Success ----------------------
+====> Trunk Data Successfully Received.
+Trunk Status: OPEN
+
+===================== TRUNK FEATURE TEST CASE ========================= 
+
+===== Test Case ID 1 PASSED
+
+---------------------- TRUNK Success ----------------------
+====> Trunk Data Successfully received.
+Trunk Status: CLOSE
+
+===================== TRUNK FEATURE TEST CASE ========================= 
+
+===== Test Case ID 1 PASSED
+
+---------------------- TRUNK Success ----------------------
+====> Trunk Data Successfully Received.
+Trunk Status: OPEN
+
+===================== TRUNK FEATURE TEST CASE ========================= 
+
+===== Test Case ID 1 PASSED
+
+---------------------- TRUNK Success ----------------------
+====> Trunk Data Successfully received.
+Trunk Status: CLOSE
+
+===================== TRUNK FEATURE TEST CASE ========================= 
+
+===== Test Case ID 1 PASSED
+
+---------------------- TRUNK Success ----------------------
+====> Trunk Data Successfully Received.
+Trunk Status: OPEN
+
+===================== TRUNK FEATURE TEST CASE ========================= 
+
+===== Test Case ID 1 PASSED
+
+---------------------- TRUNK Success ----------------------
+====> Trunk Data Successfully received.
+Trunk Status: CLOSE
+
+===================== TRUNK FEATURE TEST CASE ========================= 
+
+===== Test Case ID 1 PASSED
+
+---------------------- TRUNK Success ----------------------
+====> Trunk Data Successfully Received.
+Trunk Status: OPEN

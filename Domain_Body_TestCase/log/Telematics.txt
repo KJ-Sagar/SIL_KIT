@@ -1,0 +1,383 @@
+SIL Kit Version: 4.0.52
+Creating participant: Telematics
+[2025-01-04 12:39:23.587] [Telematics] [info] Creating participant 'Telematics' at 'silkit://10.56.2.13:8500', SIL Kit version: 4.0.52
+[2025-01-04 12:39:23.588] [Telematics] [info] The provided registry URI '' differs from the configured registry URI 'silkit://10.56.2.13:8500'. The l.
+[2025-01-04 12:39:23.641] [Telematics] [info] Connected to registry at 'tcp://10.56.2.13:8500' via 'tcp://10.0.2.15:56192' (local:///tmp/SilKitRegib3)
+Press enter to leave the simulation...
+Subscribed to topic: Vehicle_Control_Testing on broker: 10.56.2.122
+Communication ready handler called for Telematics
+
+=============================
+Received payload: Trunk: Open
+>> ACK for Ethernet frame
+>> ACK for Ethernet frame
+-- Sending TRUNK Data --
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 1f 80 00 57 38 4f 
+a8 fb 0d 06 00 2b 00 b8 38 4f 
+a8 fb 0d 06 00 1d 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 
+
+=============================
+Received payload: Trunk: Closed
+>> ACK for Ethernet frame
+>> ACK for Ethernet frame
+-- Sending TRUNK Data --
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 1f 00 00 57 38 4f 
+a8 fb 0d 06 00 2b 00 b8 38 4f 
+a8 fb 0d 06 00 1d 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 
+
+=============================
+Received payload: Trunk: Open
+>> ACK for Ethernet frame
+>> ACK for Ethernet frame
+-- Sending TRUNK Data --
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 1f 80 00 57 38 4f 
+a8 fb 0d 06 00 2b 00 b8 38 4f 
+a8 fb 0d 06 00 1d 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 
+
+=============================
+Received payload: Trunk: Closed
+>> ACK for Ethernet frame
+>> ACK for Ethernet frame
+-- Sending TRUNK Data --
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 1f 00 00 57 38 4f 
+a8 fb 0d 06 00 2b 00 b8 38 4f 
+a8 fb 0d 06 00 1d 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 
+
+=============================
+Received payload: Trunk: Open
+>> ACK for Ethernet frame
+>> ACK for Ethernet frame
+-- Sending TRUNK Data --
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 1f 80 00 57 38 4f 
+a8 fb 0d 06 00 2b 00 b8 38 4f 
+a8 fb 0d 06 00 1d 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 
+
+>> Ethernet frame from HPC:  
+45 00 00 64 00 00 40 00 40 11 
+b7 69 c0 a8 01 02 c0 a8 01 07 
+13 59 13 58 00 50 00 00 00 00 
+13 01 00 00 00 40 00 00 00 00 
+00 00 00 1f 80 00 57 38 4f a8 
+fb 0d 06 00 2b 00 b8 38 4f a8 
+fb 0d 06 00 1d 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+
+
+Published the message to topic: Vehicle_Control_Response on broker: 10.56.2.122
+
+=============================
+Received payload: Trunk: Closed
+>> ACK for Ethernet frame
+>> ACK for Ethernet frame
+-- Sending TRUNK Data --
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 1f 00 00 57 38 4f 
+a8 fb 0d 06 00 2b 00 b8 38 4f 
+a8 fb 0d 06 00 1d 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 
+
+>> Ethernet frame from HPC:  
+45 00 00 64 00 00 40 00 40 11 
+b7 69 c0 a8 01 02 c0 a8 01 07 
+13 59 13 58 00 50 00 00 00 00 
+13 01 00 00 00 40 00 00 00 00 
+00 00 00 1f 00 00 57 38 4f a8 
+fb 0d 06 00 2b 00 b8 38 4f a8 
+fb 0d 06 00 1d 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+
+
+Published the message to topic: Vehicle_Control_Response on broker: 10.56.2.122
+
+=============================
+Received payload: Trunk: Open
+>> ACK for Ethernet frame
+>> ACK for Ethernet frame
+-- Sending TRUNK Data --
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 1f 80 00 57 38 4f 
+a8 fb 0d 06 00 2b 00 b8 38 4f 
+a8 fb 0d 06 00 1d 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 
+
+>> Ethernet frame from HPC:  
+45 00 00 64 00 00 40 00 40 11 
+b7 69 c0 a8 01 02 c0 a8 01 07 
+13 59 13 58 00 50 00 00 00 00 
+13 01 00 00 00 40 00 00 00 00 
+00 00 00 1f 80 00 57 38 4f a8 
+fb 0d 06 00 2b 00 b8 38 4f a8 
+fb 0d 06 00 1d 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+
+
+Published the message to topic: Vehicle_Control_Response on broker: 10.56.2.122
+
+=============================
+Received payload: Trunk: Closed
+>> ACK for Ethernet frame
+>> ACK for Ethernet frame
+-- Sending TRUNK Data --
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 1f 00 00 57 38 4f 
+a8 fb 0d 06 00 2b 00 b8 38 4f 
+a8 fb 0d 06 00 1d 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 
+
+>> Ethernet frame from HPC:  
+45 00 00 64 00 00 40 00 40 11 
+b7 69 c0 a8 01 02 c0 a8 01 07 
+13 59 13 58 00 50 00 00 00 00 
+13 01 00 00 00 40 00 00 00 00 
+00 00 00 1f 00 00 57 38 4f a8 
+fb 0d 06 00 2b 00 b8 38 4f a8 
+fb 0d 06 00 1d 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+
+
+Published the message to topic: Vehicle_Control_Response on broker: 10.56.2.122
+
+=============================
+Received payload: Trunk: Open
+>> ACK for Ethernet frame
+>> ACK for Ethernet frame
+-- Sending TRUNK Data --
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 1f 80 00 57 38 4f 
+a8 fb 0d 06 00 2b 00 b8 38 4f 
+a8 fb 0d 06 00 1d 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 
+
+>> Ethernet frame from HPC:  
+45 00 00 64 00 00 40 00 40 11 
+b7 69 c0 a8 01 02 c0 a8 01 07 
+13 59 13 58 00 50 00 00 00 00 
+13 01 00 00 00 40 00 00 00 00 
+00 00 00 1f 80 00 57 38 4f a8 
+fb 0d 06 00 2b 00 b8 38 4f a8 
+fb 0d 06 00 1d 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+
+
+Published the message to topic: Vehicle_Control_Response on broker: 10.56.2.122
+
+=============================
+Received payload: Trunk: Closed
+>> ACK for Ethernet frame
+>> ACK for Ethernet frame
+-- Sending TRUNK Data --
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 1f 00 00 57 38 4f 
+a8 fb 0d 06 00 2b 00 b8 38 4f 
+a8 fb 0d 06 00 1d 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 
+
+>> Ethernet frame from HPC:  
+45 00 00 64 00 00 40 00 40 11 
+b7 69 c0 a8 01 02 c0 a8 01 07 
+13 59 13 58 00 50 00 00 00 00 
+13 01 00 00 00 40 00 00 00 00 
+00 00 00 1f 00 00 57 38 4f a8 
+fb 0d 06 00 2b 00 b8 38 4f a8 
+fb 0d 06 00 1d 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+
+
+Published the message to topic: Vehicle_Control_Response on broker: 10.56.2.122
+
+=============================
+Received payload: Trunk: Open
+>> ACK for Ethernet frame
+>> ACK for Ethernet frame
+-- Sending TRUNK Data --
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 1f 80 00 57 38 4f 
+a8 fb 0d 06 00 2b 00 b8 38 4f 
+a8 fb 0d 06 00 1d 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 
+
+>> Ethernet frame from HPC:  
+45 00 00 64 00 00 40 00 40 11 
+b7 69 c0 a8 01 02 c0 a8 01 07 
+13 59 13 58 00 50 00 00 00 00 
+13 01 00 00 00 40 00 00 00 00 
+00 00 00 1f 80 00 57 38 4f a8 
+fb 0d 06 00 2b 00 b8 38 4f a8 
+fb 0d 06 00 1d 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+
+
+Published the message to topic: Vehicle_Control_Response on broker: 10.56.2.122
+
+=============================
+Received payload: Trunk: Closed
+>> ACK for Ethernet frame
+>> ACK for Ethernet frame
+-- Sending TRUNK Data --
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 1f 00 00 57 38 4f 
+a8 fb 0d 06 00 2b 00 b8 38 4f 
+a8 fb 0d 06 00 1d 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 
+
+>> Ethernet frame from HPC:  
+45 00 00 64 00 00 40 00 40 11 
+b7 69 c0 a8 01 02 c0 a8 01 07 
+13 59 13 58 00 50 00 00 00 00 
+13 01 00 00 00 40 00 00 00 00 
+00 00 00 1f 00 00 57 38 4f a8 
+fb 0d 06 00 2b 00 b8 38 4f a8 
+fb 0d 06 00 1d 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+
+
+Published the message to topic: Vehicle_Control_Response on broker: 10.56.2.122
+
+=============================
+Received payload: Trunk: Open
+>> ACK for Ethernet frame
+>> ACK for Ethernet frame
+-- Sending TRUNK Data --
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 1f 80 00 57 38 4f 
+a8 fb 0d 06 00 2b 00 b8 38 4f 
+a8 fb 0d 06 00 1d 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 
+
+>> Ethernet frame from HPC:  
+45 00 00 64 00 00 40 00 40 11 
+b7 69 c0 a8 01 02 c0 a8 01 07 
+13 59 13 58 00 50 00 00 00 00 
+13 01 00 00 00 40 00 00 00 00 
+00 00 00 1f 80 00 57 38 4f a8 
+fb 0d 06 00 2b 00 b8 38 4f a8 
+fb 0d 06 00 1d 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+
+
+Published the message to topic: Vehicle_Control_Response on broker: 10.56.2.122
+
+=============================
+Received payload: Trunk: Closed
+>> ACK for Ethernet frame
+>> ACK for Ethernet frame
+-- Sending TRUNK Data --
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 1f 00 00 57 38 4f 
+a8 fb 0d 06 00 2b 00 b8 38 4f 
+a8 fb 0d 06 00 1d 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 
+
+>> Ethernet frame from HPC:  
+45 00 00 64 00 00 40 00 40 11 
+b7 69 c0 a8 01 02 c0 a8 01 07 
+13 59 13 58 00 50 00 00 00 00 
+13 01 00 00 00 40 00 00 00 00 
+00 00 00 1f 00 00 57 38 4f a8 
+fb 0d 06 00 2b 00 b8 38 4f a8 
+fb 0d 06 00 1d 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+
+
+Published the message to topic: Vehicle_Control_Response on broker: 10.56.2.122
+
+=============================
+Received payload: Trunk: Open
+>> ACK for Ethernet frame
+>> ACK for Ethernet frame
+-- Sending TRUNK Data --
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 1f 80 00 57 38 4f 
+a8 fb 0d 06 00 2b 00 b8 38 4f 
+a8 fb 0d 06 00 1d 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 
+
+>> Ethernet frame from HPC:  
+45 00 00 64 00 00 40 00 40 11 
+b7 69 c0 a8 01 02 c0 a8 01 07 
+13 59 13 58 00 50 00 00 00 00 
+13 01 00 00 00 40 00 00 00 00 
+00 00 00 1f 80 00 57 38 4f a8 
+fb 0d 06 00 2b 00 b8 38 4f a8 
+fb 0d 06 00 1d 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 
+
+
+Published the message to topic: Vehicle_Control_Response on broker: 10.56.2.122
